@@ -6,9 +6,9 @@
     <bitbar.author>Miguel Laginha</bitbar.author>
     <bitbar.author.github>brecke</bitbar.author.github>
     <bitbar.desc>It shows the country flag corresponding to your IP Address, which is useful if you use VPN to route your traffic to other countries.</bitbar.desc>
-    <bitbar.image></bitbar.image>
+    <bitbar.image>https://user-images.githubusercontent.com/19879/30689083-d8e4d2bc-9eb7-11e7-8d83-d45a9079c287.png</bitbar.image>
     <bitbar.dependencies>node</bitbar.dependencies>
-    <bitbar.abouturl>http://miguellaginha.com/</bitbar.abouturl>
+    <bitbar.abouturl>https://github.com/brecke/bitbar-vpn-flag</bitbar.abouturl>
 */
 
 const ipapi = require('ipapi.co');
